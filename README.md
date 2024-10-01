@@ -1,21 +1,21 @@
-# h2rc
+# hex-to-rgb-cli
 
-**h2rc** is a CLI tool that converts hex to rgb.
+**hex-to-rgb-cli** is a CLI tool that converts hex to rgb.
 
-![npm](https://img.shields.io/npm/v/h2rc)
-![license](https://img.shields.io/npm/l/h2rc)
+![npm](https://img.shields.io/npm/v/hex-to-rgb-cli)
+![license](https://img.shields.io/npm/l/hex-to-rgb-cli)
 
 ## Quick Start
 
-Get **h2rc** up and running quickly!
+Get **hex-to-rgb-cli** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx h2rc #FF0000
+    npx hex-to-rgb-cli #FF0000
     ```
     or
     ```bash
-    npx h2rc FF0000
+    npx hex-to-rgb-cli FF0000
     ```
 2. **Done!**
 
@@ -31,7 +31,7 @@ This will convert the hex color `#FF0000` (or `FF0000`) to its RGB equivalent, a
 
 ## Contributing
 
-We welcome contributions to **h2rc**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **hex-to-rgb-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 

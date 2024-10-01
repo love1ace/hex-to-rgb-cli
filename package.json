@@ -1,5 +1,5 @@
 {
-  "name": "h2rc",
+  "name": "hex-to-rgb-cli",
   "version": "1.0.0",
   "description": "hex to rgb in cli",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/h2rc.git"
+    "url": "https://github.com/love1ace/hex-to-rgb-cli.git"
   },
   "keywords": [
     "hex",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/h2rc/issues"
+    "url": "https://github.com/love1ace/hex-to-rgb-cli/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/h2rc#readme",
+  "homepage": "https://github.com/love1ace/hex-to-rgb-cli#readme",
   "bin": {
-    "h2rc": "index.js"
+    "hex-to-rgb-cli": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},
